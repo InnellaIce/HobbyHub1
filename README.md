@@ -22,7 +22,8 @@ REACT TREE DIAGRAM
 
 SCHEMA
 
-<img width="839" alt="Screenshot 2024-01-30 at 5 04 50 PM" src="https://github.com/InnellaIce/HobbyHub1/assets/146296280/b7afb8c2-f31e-4025-9696-0f9113a79394">
+
+<img width="858" alt="Screenshot 2024-01-30 at 5 17 15 PM" src="https://github.com/InnellaIce/HobbyHub1/assets/146296280/80264359-fcae-4584-b487-c4ed8f933cc8">
 
 ROUTES
 
